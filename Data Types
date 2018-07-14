@@ -1,0 +1,7 @@
+Int
+Float
+str
+lists - ["my",10,20.5]
+Dict-  {"key":"value","10":"Messi"}
+Tuples-("my",10,20.5)
+sets-{"a","b"}
